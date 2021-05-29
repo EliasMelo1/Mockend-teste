@@ -1,5 +1,5 @@
 {
-  "Accounts": {
+  "Contas": {
     "nome": "string",
     "conta": "int",
     "consentido": "boolean",
