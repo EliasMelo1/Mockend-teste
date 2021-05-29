@@ -1,8 +1,8 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
+  "Accounts": {
+    "nome": "string",
+    "conta": "int",
+    "consentido": "boolean",
     "createdAt": "date",
     "comments": "Comment[]"
   }
