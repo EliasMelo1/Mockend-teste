@@ -1,13 +1,13 @@
 {
   "Contas": {
-    "nome": "string",
-    "conta": "int",
-    "consentido": "boolean",
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
     "createdAt": "date",
     "comments": "Comment[]"
   },
-    "Comment": {
+  "Comment": {
     "body": "string",
-    "post": "Post"
+    "post": "Contas"
   }
 }
