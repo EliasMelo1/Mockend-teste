@@ -5,5 +5,9 @@
     "consentido": "boolean",
     "createdAt": "date",
     "comments": "Comment[]"
+  },
+    "Comment": {
+    "body": "string",
+    "post": "Post"
   }
 }
